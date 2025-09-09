@@ -73,3 +73,19 @@ The dashboard was designed to:
 - Visualization simplifies trend discovery, enabling creators to act on insights quickly.  
 
 ---
+
+## Dashboard Screenshots
+
+Here are some views from the dashboard:
+
+![Dashboard 1](image.png)
+*Main dashboard view showing overall YouTube trends.*
+
+![Dashboard 2](image_1.png)
+*Detailed analysis of top-performing channels.*
+
+![Dashboard 3](image_2.png)
+*Another view of dashboard analytics.*
+
+![Dashboard 4](image_3.png)
+*Additional dashboard details.*
