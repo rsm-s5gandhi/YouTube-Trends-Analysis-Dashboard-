@@ -2,6 +2,22 @@
 
 This project develops an **interactive Tableau BI dashboard** to analyze **YouTube trending video data** and provide actionable insights for content creators. The goal is to help creators like **Alex Carter**, an emerging YouTuber, optimize their content strategy by understanding **engagement metrics, regional preferences, and trending content categories**.  
 
+## Dashboard Screenshots
+
+Here are some views from the dashboard:
+
+![Dashboard 1](image.png)
+*Main dashboard view showing overall YouTube trends.*
+
+![Dashboard 2](image_1.png)
+*Detailed analysis of top-performing channels.*
+
+![Dashboard 3](image_2.png)
+*Another view of dashboard analytics.*
+
+![Dashboard 4](image_3.png)
+*Additional dashboard details.*
+
 ---
 
 ## 📌 Project Overview  
@@ -73,19 +89,3 @@ The dashboard was designed to:
 - Visualization simplifies trend discovery, enabling creators to act on insights quickly.  
 
 ---
-
-## Dashboard Screenshots
-
-Here are some views from the dashboard:
-
-![Dashboard 1](image.png)
-*Main dashboard view showing overall YouTube trends.*
-
-![Dashboard 2](image_1.png)
-*Detailed analysis of top-performing channels.*
-
-![Dashboard 3](image_2.png)
-*Another view of dashboard analytics.*
-
-![Dashboard 4](image_3.png)
-*Additional dashboard details.*
